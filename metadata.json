@@ -1,0 +1,8 @@
+{
+  "name": "Sistem ISAK 35 Masjid",
+  "description": "Aplikasi pencatatan keuangan masjid otomatis berbasis standar akuntansi ISAK 35.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
